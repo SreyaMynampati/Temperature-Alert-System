@@ -1,3 +1,7 @@
+**SETUP:**
+
+![WhatsApp Image 2023-11-23 at 9 26 55 PM](https://github.com/SreyaMynampati/Temperature-Alert-System/assets/143126242/a33c6930-b229-48eb-8fc7-89b164329c2a)
+
 **COMPONENTS/SOFTWARE REQUIRED:**
 
 Components:
