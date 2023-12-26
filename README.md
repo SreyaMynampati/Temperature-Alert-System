@@ -1,28 +1,41 @@
-**SETUP:**
+# Temperature Alert System
 
-![WhatsApp Image 2023-11-23 at 9 26 55 PM](https://github.com/SreyaMynampati/Temperature-Alert-System/assets/143126242/a33c6930-b229-48eb-8fc7-89b164329c2a)
+## Table of Contents
+- [Components/Software Required](#componentssoftware-required)
+- [Procedure](#procedure)
+   - [Setup Arduino IDE and Install Libraries](#1-setup-arduino-ide-and-install-libraries)
+   - [Connect Hardware Components](#2-connect-hardware-components)
+   - [Configure Arduino IDE for NodeMCU](#3-configure-arduino-ide-for-nodemcu)
+   - [Write and Upload Code](#4-write-and-upload-code)
+   - [Setup ThingSpeak IoT Platform](#5-setup-thingspeak-iot-platform)
+   - [Develop Mobile Application with MIT App Inventor](#6-develop-mobile-application-with-mit-app-inventor)
+   - [Test the System](#7-test-the-system)
+   - [Address Challenges and Debug](#8-address-challenges-and-debug)
 
-**COMPONENTS/SOFTWARE REQUIRED:**
+- [Setup](#setup)
+
+
+# Components/Software Required
 
 Components:
-1. NodeMCU ESP8266
-2. DHT11 Sensor
-3. Jumper Wires 
-4. Mobile Device for Testing
-5. USB Cable for NodeMCU
-6. Computer with Arduino IDE installed
-
+- NodeMCU ESP8266
+- DHT11 Sensor
+- Jumper Wires 
+- Mobile Device for Testing
+- USB Cable for NodeMCU
+- Computer with Arduino IDE installed
 
 Software:
-1. Arduino IDE (Integrated Development Environment)
-2. DHT Sensor Library (for Arduino IDE)
-3. Thing Speak Platform Account
-4. MIT App Inventor (for mobile application development)
+- Arduino IDE (Integrated Development Environment)
+- DHT Sensor Library (for Arduino IDE)
+- ThingSpeak Platform Account
+- MIT App Inventor (for mobile application development)
 
-**PROCEDURE:**
+# Procedure
 
 1. **Setup Arduino IDE and Install Libraries:**
-   - Download and install the Arduino IDE on your computer.
+   - Download and install the Arduino IDE on your computer : 
+     https://www.arduino.cc/en/software
    - Open Arduino IDE and install the necessary libraries, including the DHT Sensor Library and ESP8266 WiFi Client, through the Library Manager.
    - Ensure that the CP102x Driver Software is installed for NodeMCU compatibility.
 
@@ -62,5 +75,9 @@ Software:
    - Verify and use the correct versions of libraries to ensure smooth code execution.
    - Troubleshoot and resolve any memory usage errors encountered during the implementation.
    - Handle any malfunctions or issues with the DHT11 sensor.
+
+# Setup
+
+![WhatsApp Image 2023-11-23 at 9 26 55 PM](https://github.com/SreyaMynampati/Temperature-Alert-System/assets/143126242/a33c6930-b229-48eb-8fc7-89b164329c2a)
 
 By following these steps, you can effectively implement the Temperature Alert System using Arduino IDE, NodeMCU ESP8266, DHT11 sensor, ThingSpeak IoT platform, and MIT App Inventor, ensuring successful real-time temperature monitoring and alerting.
