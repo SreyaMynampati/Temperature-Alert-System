@@ -54,12 +54,12 @@ Software:
    - Compile the code and upload it to the NodeMCU ESP8266.
 
 5. **Setup ThingSpeak IoT Platform:**
-   - Create an account on the ThingSpeak IoT platform.
+   - Create an account on the ThingSpeak IoT platform : https://thingspeak.com/login?skipSSOCheck=true
    - Set up a new channel on ThingSpeak to receive and visualize temperature data.
    - Obtain the ThingSpeak channel ID and API key.
 
 6. **Develop Mobile Application with MIT App Inventor:**
-   - Access MIT App Inventor and create a new project.
+   - Access MIT App Inventor and create a new project. (Link for Tutorials: https://appinventor.mit.edu/explore/ai2/tutorials)
    - Design the user interface to display temperature readings and alerts.
    - Implement the MQTT protocol to receive real-time data from ThingSpeak.
    - Program the app to trigger alerts when predefined temperature thresholds are exceeded.
