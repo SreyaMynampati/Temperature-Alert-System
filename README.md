@@ -38,9 +38,9 @@ Software:
 # Procedure
 
 1. **Setup Arduino IDE and Install Libraries:**
-   - Download and install the [Arduino Software IDE](https://www.arduino.cc/en/software) on your computer.
-   - Open Arduino IDE and install the necessary libraries, including the DHT Sensor Library and ESP8266 WiFi Client, through the Library Manager.
-   - Ensure that the CP102x Driver Software is installed for NodeMCU compatibility.
+   * Download and install the [Arduino Software IDE](https://www.arduino.cc/en/software) on your computer.
+   * Open Arduino IDE and install the necessary libraries, including the DHT Sensor Library and ESP8266 WiFi Client, through the Library Manager.
+   * Ensure that the CP102x Driver Software is installed for NodeMCU compatibility.
 
 2. **Connect Hardware Components:**
    - Arrange the NodeMCU ESP8266, DHT11 sensor, and jumper wires on a breadboard.
