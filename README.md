@@ -32,7 +32,7 @@ Software:
 
 # Pin Diagram
 
-Include an actual pin diagram or provide a description of the pin connections for NodeMCU ESP8266 and DHT11 Sensor here.
+![mpmc](https://github.com/SreyaMynampati/Temperature-Alert-System/assets/143126242/181cd1f1-ab2a-44c3-bff6-21dcdd1f9455)
 
 # Procedure
 
