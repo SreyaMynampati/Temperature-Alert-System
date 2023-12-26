@@ -37,7 +37,7 @@ Software:
 # Procedure
 
 1. **Setup Arduino IDE and Install Libraries:**
-   - Download and install the Arduino IDE on your computer: [Arduino Software](https://www.arduino.cc/en/software)
+   - Download and install the [Arduino Software IDE](https://www.arduino.cc/en/software) on your computer.
    - Open Arduino IDE and install the necessary libraries, including the DHT Sensor Library and ESP8266 WiFi Client, through the Library Manager.
    - Ensure that the CP102x Driver Software is installed for NodeMCU compatibility.
 
@@ -56,12 +56,12 @@ Software:
    - Compile the code and upload it to the NodeMCU ESP8266.
 
 5. **Setup ThingSpeak IoT Platform:**
-   - Create an account on the ThingSpeak IoT platform: [ThingSpeak](https://thingspeak.com/login?skipSSOCheck=true)
+   - Create an account on the [ThingSpeak](https://thingspeak.com/login?skipSSOCheck=true) IoT platform.
    - Set up a new channel on ThingSpeak to receive and visualize temperature data.
    - Obtain the ThingSpeak channel ID and API key.
 
 6. **Develop Mobile Application with MIT App Inventor:**
-   - Access MIT App Inventor and create a new project. (Link for Tutorials: [MIT App Inventor Tutorials](https://appinventor.mit.edu/explore/ai2/tutorials))
+   - Access [MIT App Inventor](https://appinventor.mit.edu/explore/ai2/tutorials) and create a new project.
    - Design the user interface to display temperature readings and alerts.
    - Implement the MQTT protocol to receive real-time data from ThingSpeak.
    - Program the app to trigger alerts when predefined temperature thresholds are exceeded.
