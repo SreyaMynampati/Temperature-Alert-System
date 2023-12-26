@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Components/Software Required](#componentssoftware-required)
+- [Pin Diagram](#pin-diagram)
 - [Procedure](#procedure)
    - [Setup Arduino IDE and Install Libraries](#1-setup-arduino-ide-and-install-libraries)
    - [Connect Hardware Components](#2-connect-hardware-components)
@@ -30,6 +31,9 @@ Software:
 - DHT Sensor Library (for Arduino IDE)
 - ThingSpeak Platform Account
 - MIT App Inventor (for mobile application development)
+
+# Pin Diagram
+
 
 # Procedure
 
