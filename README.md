@@ -12,9 +12,7 @@
    - [Develop Mobile Application with MIT App Inventor](#6-develop-mobile-application-with-mit-app-inventor)
    - [Test the System](#7-test-the-system)
    - [Address Challenges and Debug](#8-address-challenges-and-debug)
-
 - [Setup](#setup)
-
 
 # Components/Software Required
 
@@ -34,12 +32,12 @@ Software:
 
 # Pin Diagram
 
+Include an actual pin diagram or provide a description of the pin connections for NodeMCU ESP8266 and DHT11 Sensor here.
 
 # Procedure
 
 1. **Setup Arduino IDE and Install Libraries:**
-   - Download and install the Arduino IDE on your computer : 
-     https://www.arduino.cc/en/software
+   - Download and install the Arduino IDE on your computer: [Arduino Software](https://www.arduino.cc/en/software)
    - Open Arduino IDE and install the necessary libraries, including the DHT Sensor Library and ESP8266 WiFi Client, through the Library Manager.
    - Ensure that the CP102x Driver Software is installed for NodeMCU compatibility.
 
@@ -58,12 +56,12 @@ Software:
    - Compile the code and upload it to the NodeMCU ESP8266.
 
 5. **Setup ThingSpeak IoT Platform:**
-   - Create an account on the ThingSpeak IoT platform : https://thingspeak.com/login?skipSSOCheck=true
+   - Create an account on the ThingSpeak IoT platform: [ThingSpeak](https://thingspeak.com/login?skipSSOCheck=true)
    - Set up a new channel on ThingSpeak to receive and visualize temperature data.
    - Obtain the ThingSpeak channel ID and API key.
 
 6. **Develop Mobile Application with MIT App Inventor:**
-   - Access MIT App Inventor and create a new project. (Link for Tutorials: https://appinventor.mit.edu/explore/ai2/tutorials)
+   - Access MIT App Inventor and create a new project. (Link for Tutorials: [MIT App Inventor Tutorials](https://appinventor.mit.edu/explore/ai2/tutorials))
    - Design the user interface to display temperature readings and alerts.
    - Implement the MQTT protocol to receive real-time data from ThingSpeak.
    - Program the app to trigger alerts when predefined temperature thresholds are exceeded.
