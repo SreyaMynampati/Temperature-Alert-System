@@ -13,7 +13,8 @@
    - [Test the System](#7-test-the-system)
    - [Address Challenges and Debug](#8-address-challenges-and-debug)
 - [Setup](#setup)
-
+- [Screenshots](#screenshots)
+  
 # Components/Software Required
 
 Components:
@@ -81,5 +82,9 @@ Software:
 # Setup
 
 ![WhatsApp Image 2023-11-23 at 9 26 55 PM](https://github.com/SreyaMynampati/Temperature-Alert-System/assets/143126242/a33c6930-b229-48eb-8fc7-89b164329c2a)
+
+# Screenshots
+![image](https://github.com/SreyaMynampati/Temperature-Alert-System/assets/143216212/79af8c00-8add-46e1-9ae4-e2a905d01a20)
+
 
 By following these steps, you can effectively implement the Temperature Alert System using Arduino IDE, NodeMCU ESP8266, DHT11 sensor, ThingSpeak IoT platform, and MIT App Inventor, ensuring successful real-time temperature monitoring and alerting.
